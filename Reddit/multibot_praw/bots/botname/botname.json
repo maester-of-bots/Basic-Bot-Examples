@@ -1,0 +1,14 @@
+{
+  "bot_name": "botname",
+  "envs": ["botname-client_id","botname-client_secret","botname-password","botname-user_agent","botname-username"],
+  "keywords": ["list", "of", "triggers"],
+  "subs": ["list", "of", "subreddits"],
+  "sentience": false,
+  "quotes": [
+    "Add quotes here.",
+	"*One astrix for italics*",
+	"**Two astrix for bold**",
+	"# Hashtag for header"
+	],
+  "webhook": "Webhook URL for Discord"
+}
